@@ -1,28 +1,2 @@
-pluginManagement {
-    repositories {
-        maven {
-            url 'https://artifactory.itg.ti.com/artifactory/plugins-release'
-        }
-        gradlePluginPortal()
-    }
-}
-
-dependencyResolutionManagement {
-    repositories {
-        maven {
-            url "https://artifactory.itg.ti.com/artifactory/libs-dc-release"
-            mavenContent {
-                releasesOnly()
-            }
-        }
-        maven {
-            url "https://artifactory.itg.ti.com/artifactory/libs-dc-snapshot"
-            mavenContent {
-                snapshotsOnly()
-            }
-        }
-    }
-}
-
 rootProject.name = 'Elevator'
 
