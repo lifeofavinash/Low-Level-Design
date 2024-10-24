@@ -1,8 +1,8 @@
 package org.example.interfaces;
 
+import org.example.model.Bill;
+
 public abstract class Payment {
 
-    private float amount = 0;
-
-    protected abstract boolean makePayment(int amount);
+    public abstract boolean makePayment(Bill bill);
 }
