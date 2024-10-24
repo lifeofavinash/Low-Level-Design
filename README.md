@@ -1,6 +1,6 @@
-LLD Practice and Notes
+# LLD Practice and Notes
 
-Important URL:
+## Important URL:
 
 https://github.com/ashishps1/awesome-low-level-design?tab=readme-ov-file
 
