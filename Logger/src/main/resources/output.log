@@ -1,0 +1,6 @@
+2024-11-08T01:09:38.734464 | INFO | Logger is starting!
+2024-11-08T01:09:38.737192 | DEBUG | Hi This is Avinash!
+2024-11-08T01:09:38.737363 | DEBUG | This is second line
+2024-11-08T01:09:42.742622 | INFO | This is from thread2
+2024-11-08T01:09:42.743636 | DEBUG | This is from thread3
+2024-11-08T01:09:42.744207 | INFO | This is from thread1
